@@ -2,7 +2,7 @@
 
 ## 2024
 
-Language: C#
+Language: C# (.NET 8)
 
 <details>
 <summary>Solutions</summary>
